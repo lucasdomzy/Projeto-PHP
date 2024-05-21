@@ -42,10 +42,10 @@
                 <a class="nav-link" href="#">Home <span class="sr-only">(atual)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Produtos</a>
+                <a class="nav-link" href="#">Sapatos</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Contato</a>
+                <a class="nav-link" href="#">Meias</a>
             </li>
         </ul>
     </div>
